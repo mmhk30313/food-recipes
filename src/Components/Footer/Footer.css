@@ -1,0 +1,17 @@
+.main-footer{
+    padding-bottom: 2px ;
+    background-color: rgba(90, 81, 63, 0.898);
+}
+.footer {
+    /* height: 100px; */
+    align-items: center;
+}
+.link-last a{
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+}
+.footer a, .main-footer div a{
+    color: wheat;
+    
+}

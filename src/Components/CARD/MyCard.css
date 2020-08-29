@@ -1,0 +1,13 @@
+.my-card{
+    margin: 10px auto !important;
+    /* padding: 15px; */
+}
+.card-details{
+    padding: 15px;
+}
+.myText{
+    text-align: center;
+    padding: 10px;
+    width: 80%;
+    margin: 0 auto;
+}

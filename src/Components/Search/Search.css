@@ -1,0 +1,26 @@
+.input button{
+    /* margin-right: 50px; */
+    position: relative;
+    right: 118px;
+    /* width: 30%; */
+    font-weight: 400;
+    color: rgb(145, 54, 187);
+}
+.input input{
+    padding-left: 43px;
+    width: 85% !important;
+    margin: 0 auto;
+}
+.input{
+    padding-bottom: 30px;
+    position: relative;
+    left: 23px;
+}
+.font{
+    font-weight: 600;
+    color: rgb(145, 54, 187);
+    position: relative;
+    left: 35px;
+    top: 15px;
+    cursor: pointer;
+}

@@ -1,0 +1,12 @@
+.memo .cash, .memo .cash-intro{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    margin: 5px 27%;
+}
+.memo button{
+    margin-top: 20px;
+}
+.cash-intro h3{
+    color: hotpink;
+}
